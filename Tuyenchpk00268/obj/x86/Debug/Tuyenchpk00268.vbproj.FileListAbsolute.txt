@@ -1,0 +1,13 @@
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\bin\Debug\Tuyenchpk00268.exe
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\bin\Debug\Tuyenchpk00268.pdb
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\bin\Debug\Tuyenchpk00268.xml
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.Resources.resources
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.SanPham.resources
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.vbproj.GenerateResource.Cache
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.exe
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.xml
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.pdb
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.KhachHang.resources
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.DangNhap.resources
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.QLKH.resources
+D:\Projects\Management_Project\tuyenchpk00268\Tuyenchpk00268\Tuyenchpk00268\obj\x86\Debug\Tuyenchpk00268.HoaDon.resources
